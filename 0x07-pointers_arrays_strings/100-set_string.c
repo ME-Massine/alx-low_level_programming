@@ -1,5 +1,3 @@
-#include "main.h"
-#include <stdio.h>
 /*                                                                                                                                 
  * File: 100-set_string.c                                                                                                          
  * Auth: EASY                                                                                                                      
